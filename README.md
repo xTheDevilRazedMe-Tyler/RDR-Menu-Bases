@@ -1,4 +1,4 @@
-# RDR-Development
+# RDR-Mods
 Files added in this repo are for educational purposes only
 -------------------------------------------------------------------
 Credits:
